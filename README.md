@@ -1,1 +1,2 @@
-# my-first-repo
+# my-first-repo 
+My name is Elijah Hawes, I can say with confidence that I am a creative individal with a lot of passion. I've been juggling with my coding and artist ambitions, which I hope to use both in unison. I am from the Bronx, Ny, born and raised. I hope to be great one day,give back to my community, and leave a huge impact on the world. 
